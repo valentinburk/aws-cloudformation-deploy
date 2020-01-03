@@ -6,6 +6,8 @@ This is a project for [Cloud DevOps Engineer Nanodegree](https://www.udacity.com
 
 Deploys a network and servers infrastructure to AWS account using CLI.
 
+![Diagram](https://github.com/valentinburk/aws-cloudformation-deploy/blob/master/diagram.jpeg)
+
 ## Deployment instructions
 
 There are two segments of code - one for networking and one for servers deployment. Each segment has its own `yml` file and `json` file with parameters.
